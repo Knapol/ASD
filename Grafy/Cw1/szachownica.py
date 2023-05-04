@@ -1,0 +1,1 @@
+#stworzyc nowa tablice w ktorej na pozycjach sa najkrotsze sciezki. Nastepnie od konca idziemy po malejacych wartosciach az do pkt startowego. Jesli krol moze ruszac sie tez do tylu to dijkstra.
